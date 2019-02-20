@@ -1,6 +1,9 @@
 1) INSTALLING GIT:
 
-    Step 1: Open the Terminal and  type  sudo apt install git
+    Step 1: Open the Terminal and  type  
+     
+     sudo apt update
+     sudo apt install git
 
 2) CONFIGURING GIT:
 
